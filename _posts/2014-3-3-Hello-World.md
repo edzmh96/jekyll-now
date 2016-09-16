@@ -1,10 +1,19 @@
 ---
 layout: post
-title: You're up and running!
+title: How to create a site like this in a few minutes
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Here's what's great about modern web development:
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Everything you need is online.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Website making is easier than it ever was before. Want a blog site like mine? Just follow this guide on [github](https://github.com/barryclark/jekyll-now). (All credits to the cool dude who created this)
+
+It's that simple!
+
+And if you aren't a developer/coder/github-user... then continue reading down below for the steps to set that up first.
+
+### How to install Git
+
+
+### How to clone this repository
