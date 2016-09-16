@@ -6,7 +6,7 @@
 name: Edward Zhou
 
 # Short bio or description (displayed in the header)
-description: UBC CS || Web Developer || Android
+description: Web Developer who occasionally dips into the depths of Android
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/10322627?v=3&u=9e01189b38fbfb3013d6e2589ceeb930d8de814e&s=140
@@ -18,15 +18,15 @@ avatar: https://avatars2.githubusercontent.com/u/10322627?v=3&u=9e01189b38fbfb30
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: edwardzhou1996@outlook.com
   facebook:
   flickr:
-  github: https://github.com/edzmh96
-  instagram: https://www.instagram.com/edward_zhou/
-  linkedin: ca.linkedin.com/in/edwardzhou96
+  github: edzmh96
+  instagram: edward_zhou
+  linkedin: edwardzhou96
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -47,7 +47,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/theedwardzhou.github.io"
+baseurl: ""
 
 #
 # !! You don't need to change any of the configuration flags below !!
