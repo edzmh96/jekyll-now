@@ -8,9 +8,9 @@ Hi!
 
 My name is Edward Zhou, and I'm a 3rd year Computer Science Science student at the University of British Columbia!
 
-Previously, I worked at [SAP](http://go.sap.com/) as a Software Engineer intern.
+Previously, I worked at [SAP](http://go.sap.com/) as a Software Engineer Intern.
 
-Even more previously, I was an Android Developer intern at [Pantoscope Media](http://www.scopephotos.com/#/main).
+Even more previously, I was an Android Developer Intern at [Pantoscope Media](http://www.scopephotos.com/#/main).
 
 Simply put, I'm a nerd that lifts, but if you'd like to know a little more about me, here are some little facts:
 - I'm the oldest child in the family (in fact I'm 6 years older than my brother)
@@ -27,4 +27,5 @@ And just about anything like meeting together with friends and hacking up someth
 ### Contact me
 
 Email : [edwardzhou1996@outlook.com](mailto:email@domain.com)
+
 LinkedIn : [edwardzhou](https://www.linkedin.com/in/edwardzhou96)
