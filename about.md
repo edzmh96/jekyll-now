@@ -12,12 +12,18 @@ Previously, I worked at [SAP](http://go.sap.com/) as a Software Engineer Intern.
 
 Even more previously, I was an Android Developer Intern at [Pantoscope Media](http://www.scopephotos.com/#/main).
 
-Simply put, I'm a nerd that lifts, but if you'd like to know a little more about me, here are some little facts:
+Simply put, I'm a nerd that lifts, but if you'd like to know a little more about me, here are
+some little facts:
+
 - I'm the oldest child in the family (in fact I'm 6 years older than my brother)
+
 - My favourite deserts are egg tarts
+
 - I love spicy food (challenge me, I'll accept it any day)
+
 - I probably eat more than you (you can challenge me on this one too)
-- I like hugs!
+
+- My favourite fruit is the watermelon.
 
 ### And the obvious...
 I love coding.
